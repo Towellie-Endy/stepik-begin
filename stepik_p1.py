@@ -1,4 +1,4 @@
-# 2.4
+# ТЕМА 2. + экзамен 3
 
 # cost1 = int(input())
 # cost2 = int(input())
@@ -71,6 +71,70 @@
 # print(f'{how_minutes} мин - это {how_minutes 2// 60} час {how_minutes % 60} минут.')
 
 
-place = int(input())
+# place = int(input())
 
-print((place - 1)// 4 + 1)
+# print((place - 1)// 4 + 1)
+
+
+# digit = int(input())
+# first = digit // 100
+# second = digit // 10 % 10
+# third = digit % 10
+
+# print(f'Сумма цифр = {first + second + third}')
+# print(f'Произведение цифр = {first * second * third}')
+
+
+# digit = int(input())
+# first = digit // 100
+# second = digit // 10 % 10
+# third = digit % 10
+
+# print(f'{first}{second}{third}')
+# print(f'{first}{third}{second}')
+# print(f'{second}{first}{third}')
+# print(f'{second}{third}{first}')
+# print(f'{third}{first}{second}')
+# print(f'{third}{second}{first}')
+
+
+# digit = int(input())
+# first = digit // 1000
+# second = digit // 100 % 10
+# third = digit // 10 % 10
+# fouth = digit % 10
+
+# print(f'Цифра в позиции тысяч равна {first}')
+# print(f'Цифра в позиции сотен равна {second}')
+# print(f'Цифра в позиции десятков равна {third}')
+# print(f'Цифра в позиции единиц равна {fouth}')
+
+
+# print(17 * '*')
+# print('*', 13 * ' ', '*')
+# print('*', 13 * ' ', '*')
+# print(17 * '*')
+
+
+# num_1 = int(input())
+# num_2 = int(input())
+
+# print(f'Квадрат суммы {num_1} и {num_2} равен {(num_1 + num_2) ** 2}')
+# print(f'Сумма квадратов {num_1} и {num_2} равна {num_1 ** 2 + num_2 ** 2}')
+
+
+# num_1 = int(input())
+# num_2 = int(input())
+# num_3 = int(input())
+# num_4 = int(input())
+
+# print(num_1 ** num_2 + num_3 ** num_4)
+
+
+# a = int(input())
+# b = str(a)
+
+# print(a + int(b * 2) + int(b * 3))
+
+
+# ТЕМА 4.
