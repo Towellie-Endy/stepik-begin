@@ -138,3 +138,76 @@
 
 
 # ТЕМА 4.
+
+# str_1 = input()
+# str_2 = input()
+
+# print('Пароль принят' if str_1 == str_2 else 'Пароль не принят')
+
+
+# a = int(input())
+
+# print('Четное' if a % 2 == 0 else 'Нечетное')
+
+
+# age = int(input())
+
+# print('Доступ разрешен' if age >= 18 else 'Доступ запрещен')
+
+
+# a = int(input())
+# b = int(input())
+
+# print(a if a < b else b)
+
+
+# a = int(input())
+# b = int(input())
+# c = int(input())
+
+# if b - a == c - b:
+#     print('YES')
+# else:
+#     print('NO')
+
+
+# digit = int(input())
+# first = digit // 1000
+# second = digit // 100 % 10
+# third = digit // 10 % 10
+# fouth = digit % 10
+# if first + fouth == second - third:
+#     print('ДА')
+# else:
+#     print('НЕТ')
+
+# a = int(input())
+# b = int(input())
+# c = int(input())
+# count = 0
+# if a > 0:
+#     count += a
+# if b > 0:
+#     count += b
+# if c > 0:
+#     count += c
+# print(count)
+
+# age = int(input())
+# if age <= 13:
+#     print('детство')
+# if 14 <= age <= 24:
+#     print('молодость')
+# if 25 <= age <= 59:
+#     print('зрелость')
+# if age >= 60:
+#     print('старость')
+
+
+# a = int(input())
+# b = int(input())
+# c = int(input())
+# d = int(input())
+
+# print(min(a, b, c, d))
+
