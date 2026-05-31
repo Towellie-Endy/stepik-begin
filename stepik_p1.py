@@ -425,3 +425,77 @@
 #     print("NO")
     
 
+# ТЕМА 6
+
+
+# len1, len2 = float(input()), float(input())
+
+# print(0.5 * len1 * len2)
+
+
+# road = float(input())
+# speed1 = float(input())
+# speed2 = float(input())
+
+# print(road / (speed1 + speed2))
+
+
+# num = float(input())
+# print('Обратного числа не существует' if num == 0 else 1 / num)
+
+
+# fareg = float(input())
+# cels = (5 / 9) * (fareg - 32)
+# print(cels)
+
+
+# age = float(input())
+# if age <= 2:
+#     print(age * 10.5)
+# else:
+#     print(21 + (age - 2) * 4)
+
+
+# num = float((input()))
+# print(int((num * 10) % 10 // 1))
+
+
+# print(float(input()) % 1)
+
+
+# a1, a2, a3, a4, a5 = int(input()), int(input()), int(input()), int(input()), int(input())
+# print('Наименьшее число =', min(a1, a2, a3, a4, a5))
+# print('Наибольшее число =', max(a1, a2, a3, a4, a5))
+
+
+# a1, a2, a3, a4, a5 = float(input()), float(input()), float(input()), float(input()), float(input())
+
+# print(abs(a1) + abs(a2) + abs(a3) + abs(a4) + abs(a5))
+
+
+# num = int(input())
+# fir = num // 100
+# sec = num // 10 % 10
+# thi = num % 10
+
+# if max(fir, sec, thi) - min(fir, sec, thi) == sec:
+#     print('Число интересное')
+# else:
+#     print('Число неинтересное')
+
+
+# a, b, c = int(input()), int(input()), int(input())
+
+# mini = min(a, b, c)
+# maxi = max(a, b, c)
+# middle = a + b + c - mini - maxi
+# print(maxi)
+# print(middle)
+# print(mini)
+
+
+# p1, p2, q1, q2 = int(input()), int(input()), int(input()), int(input())
+
+# print(abs(p1 - q1) + abs(p2 - q2))
+
+# Продолжение во второй части
